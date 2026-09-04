@@ -4,148 +4,151 @@ This is the schedule for the semester. This page will be frequently updated
 based on how we progress and everything is subject to change. Homeworks and
 links to the lecture will be provided here for easy reference to the calendar.
 The assignments refer to the homework **following** a class meeting. So if on
-a particular date it says watch a video, that is for next time! 
+a particular date it says watch a video, that is for next time!
 
-### Mon, Sep 08
+### Wed, Sep 02
 - Agenda
   - Introduction to course
-  - Form groups, set up JupyterHub
-  - {doc}`Intro to Cognitive Science in-class activity <../chapters/00/cogsci-ica>`
+  - Form working groups
+  - Initial test of JupyterHub
 - Assignments
   - Read/watch {doc}`Chapter 1: What is Cognitive Science and how do we study it? <../chapters/00/00-cogsci>`
-  - Read/watch {doc}`Chapter 2: Why do we have to learn statistics? <../chapters/01/00-whystats>` by next class
-  - Read/watch {doc}`Chapter 3: Introduction to Jupyter <../chapters/02/00-jupyter>`
+  - Do {doc}`Intro to Cognitive Science in-class activity <../chapters/00/cogsci-ica>`
+  - Read/watch {doc}`Chapter 2: Why do we have to learn statistics? <../chapters/01/00-whystats>`
 
-### Mon, Sep 15
+### Wed, Sep 09
 - Agenda
-  - Discuss Chapters 1, 2 and 3
-  - JupyterHub introduction
+  - Discuss Intro to Cognitive Science ICA and Chapter 2
+  - Discuss {doc}`Chapter 3: Introduction to Jupyter <../chapters/02/00-jupyter>` and JupyterHub introduction
   - Start {doc}`Homework 1 <../homeworks/Homework1>`
 - Assignments
   - Read/watch {doc}`Chapter 4: Introduction to Python for Psychology Undergraduates <../chapters/03/00-python>`
-  - Read through {doc}`Intro to for-loops <../tips/fortyforloops>`
 
-### Mon, Sep 22
+### Wed, Sep 16
 - Agenda
-  - Group presentation on {doc}`Chapter 4: Introduction to Python for Psychology Undergraduates <../chapters/03/00-python>` (Group 1)
-  - Discuss Chapter 4 and basic Python programming
-  - {doc}`Python in-class activity <../chapters/03/python-ica>`
-  - Go over {doc}`Intro to for-loops <../tips/fortyforloops>`
+  - Group 1 presentation on {doc}`Chapter 4: Introduction to Python for Psychology Undergraduates <../chapters/03/00-python>`
+  - Do {doc}`Chapter 4 ICA: Python <../chapters/03/python-ica>`
+  - Work on {doc}`Homework 1 <../homeworks/Homework1>`
 - Assignments
+  - Read through {doc}`Intro to for-loops <../tips/fortyforloops>`
   - Read/watch {doc}`Chapter 5: A brief introduction to research design <../chapters/04/00-researchdesign>`
 
-### Wed, Sep 24 (No class)
+### Fri, Sep 18  (No class)
 - Assignments
-  - **Homework 1 Due**
+  - **Homework 1 due**
 
-### Mon, Sep 29
+### Wed, Sep 23
 - Agenda
-  - Group presentation on {doc}`Chapter 5: A brief introduction to research design <../chapters/04/00-researchdesign>` (Group 2)
-  - Discuss Chapter 5
-  - {doc}`Evaluating research designs in-class activity <../chapters/04/design-ica>`
+  - Discuss Intro to for-loops
+  - Group 2 presentation on {doc}`Chapter 5: A brief introduction to research design <../chapters/04/00-researchdesign>`
+  - Working groups choose research paper to assess for Ch 5 ICA
+  - Do {doc}`Chapter 5 ICA: Evaluating research designs <../chapters/04/design-ica>`
   - Begin {doc}`Homework 2: Python for data analysis <../homeworks/hw2/Homework2>` in class
 - Assignments
   - Read/watch {doc}`Chapter 6: Format and structure of digital data <../chapters/05/00-data>`
 
-### Mon, Oct 06
+### Wed, Sep 30
 - Agenda
-  - Group presentation on {doc}`Chapter 6: Format and structure of digital data <../chapters/05/00-data>` (Group 3)
-  - Work on {doc}`Data and Dataframes In Class Activity <../chapters/05/data-ica-1>`
+  - Group 3 presentation on {doc}`Chapter 6: Format and structure of digital data <../chapters/05/00-data>`
+  - Do {doc}`Chapter 6 ICA: Data and Dataframes <../chapters/05/data-ica-1>`
   - Work on {doc}`Homework 2 <../homeworks/hw2/Homework2>` in class
 - Assignments
   - Read/watch {doc}`Chapter 7: Visualizing data <../chapters/06/00-plots>`
 
-### Mon, Oct 13 (No class — Fall break)
+### Wed, Oct 07
 - Agenda
-  - **No class (Fall break)**
-
-### Tue, Oct 14
-- Agenda
-  - Group presentation on {doc}`Chapter 7: Visualizing data <../chapters/06/00-plots>` (Group 4)
-  - Work on {doc}`Ch 7 ICA: Visualizing data <../chapters/06/viz-ica-1>`
+  - Group 4 presentation on {doc}`Chapter 7: Visualizing data <../chapters/06/00-plots>`
+  - Do {doc}`Chapter 7 ICA: Visualizing data <../chapters/06/viz-ica-1>`
   - Work on {doc}`Homework 2 <../homeworks/hw2/Homework2>`
 - Assignments
   - Read/watch {doc}`Chapter 8: Describing data <../chapters/07/00-describingdata>`
-  - Read/watch {doc}`Chapter 9: Samples, populations, and sampling <../chapters/08/01-sampling>`
 
-### Wed, Oct 15 (No class)
+### Fri, Oct 09  (No class)
 - Assignments
-  - **Homework 2 Due**
+  - **Homework 2 due**
 
-### Mon, Oct 20
+### Wed, Oct 14  (No class — Legislative Day (classes meet on Monday schedule))
+
+### Wed, Oct 21
 - Agenda
-  - Group presentation on {doc}`Chapter 8: Describing data <../chapters/07/00-describingdata>` (Group 5)
-  - Group presentation on {doc}`Chapter 9: Samples, populations, and sampling <../chapters/08/01-sampling>` (Group 1)
-  - {doc}`Sampling in-class activity <../chapters/08/sampling-ica>`
+  - Group 5 presentation on {doc}`Chapter 8: Describing data <../chapters/07/00-describingdata>`
+  - Work on {doc}`Chapter 9 ICA: Sampling <../chapters/08/sampling-ica>`
+- Assignments
+  - Read/watch {doc}`Chapter 9: Samples, populations, and sampling <../chapters/08/01-sampling>`
+  - Read/watch {doc}`Chapter 10: Hypothesis testing <../chapters/09/00-hypothesistesting>`
+
+### Mon, Oct 26  (No class)
+- Assignments
+  - **Homework 3 due**
+
+### Wed, Oct 28
+- Agenda
+  - Group 1 presentation on {doc}`Chapter 9: Samples, populations, and sampling <../chapters/08/01-sampling>`
+  - Group 2 presentation on {doc}`Chapter 10: Hypothesis Testing <../chapters/09/00-hypothesistesting>`
+  - Work on {doc}`Chapter 10 ICA: Hypothesis testing <../chapters/09/hypothesistesting-ica>`
   - Work on {doc}`Homework 3: Exploring Data <../homeworks/Homework3>`
 - Assignments
-  - Read/watch {doc}`Chapter 10: Hypothesis testing <../chapters/09/00-hypothesistesting>`
   - Read/watch {doc}`Chapter 11: Comparing one or two means <../chapters/10/00-ttest>`
 
-### Mon, Oct 27
+### Wed, Nov 04
 - Agenda
-  - Group presentation on {doc}`Chapter 10: Hypothesis Testing <../chapters/09/00-hypothesistesting>` (Group 2)
-  - {doc}`Hypothesis testing in-class activity <../chapters/09/hypothesistesting-ica>`
-  - Group presentation on {doc}`Chapter 11: Comparing one or two means <../chapters/10/00-ttest>` (Group 3)
-  - {doc}`Differences between means in-class activity <../chapters/10/ttest-ica>`
+  - Group 3 presentation on {doc}`Chapter 11: Comparing one or two means <../chapters/10/00-ttest>`
+  - Group 4 presentation on {doc}`Chapter 12: Measuring behavior <../chapters/11/00-inferences-from-behavior>`
+  - Work on {doc}`Chapter 11 ICA: Differences between means <../chapters/10/ttest-ica>`
 - Assignments
   - Read/watch {doc}`Chapter 12: Measuring behavior <../chapters/11/00-inferences-from-behavior>`
+  - Read/watch {doc}`Chapter 13: Correlation <../chapters/12/00-correlation>`
 
-### Wed, Oct 29 (No class)
-- Assignments
-  - **Homework 3 Due**
-
-### Mon, Nov 03
+### Wed, Nov 11
 - Agenda
-  - Group presentation on {doc}`Chapter 12: Measuring behavior <../chapters/11/00-inferences-from-behavior>` (Group 4)
-  - Signal Detection Theory lab ({doc}`part 1 <../labs/LabSDT-Pt1>`, {doc}`part 2 <../labs/LabSDT-Pt2>`)
+  - Group 5 presentation on {doc}`Chapter 13: Correlation <../chapters/12/00-correlation>`
+  - Group 1 presentation on {doc}`Chapter 14: Research Ethics <../chapters/21/00-ethics-irb>`
+  - Signal Detection Theory lab ({doc}`part 1 <../labs/LabSDT-Pt1>`)
 - Assignments
   - Read/watch {doc}`Chapter 14: Research Ethics <../chapters/21/00-ethics-irb>`
   - Read/watch {doc}`Chapter 15: Replication Crisis in Psychology <../chapters/20/replication-crisis-in-psychology>`
 
-### Mon, Nov 10
-- Agenda
-  - Group presentation on {doc}`Chapter 14: Research Ethics <../chapters/21/00-ethics-irb>` (Group 5)
-  - Group presentation on {doc}`Chapter 15: Replication Crisis in Psychology <../chapters/20/replication-crisis-in-psychology>` (Group 1)
-  - Signal Detection Theory lab ({doc}`part 1 <../labs/LabSDT-Pt1>`, {doc}`part 2 <../labs/LabSDT-Pt2>`)
-- Assignments
-  - Read/watch {doc}`Chapter 16: Linear Regression <../chapters/13/00-linearregression>`
-
-### Mon, Nov 17
-- Agenda
-  - Group presentation on {doc}`Chapter 16: Linear Regression <../chapters/13/00-linearregression>` (Group 2)
-  - Signal Detection Theory lab ({doc}`part 1 <../labs/LabSDT-Pt1>`, {doc}`part 2 <../labs/LabSDT-Pt2>`)
-- Assignments
-  - Read {doc}`Chapter 18: Linear Mixed Effect Models <../chapters/15/00-mixed-effect>`
-
-### Mon, Nov 24
-- Agenda
-  - Group presentation on {doc}`Chapter 18: Linear Mixed Effect Models <../chapters/15/00-mixed-effect>` (Group 3)
-  - Signal Detection Theory lab ({doc}`part 1 <../labs/LabSDT-Pt1>`, {doc}`part 2 <../labs/LabSDT-Pt2>`)
-  - Linear Regression lab ({doc}`part 1 <../labs/LabReg-IntroToRegression>`, {doc}`part 2 <../labs/LabReg-AdvancedRegression>`, {doc}`part 3 <../labs/LabReg-MentalRotation>`)
-- Assignments
-  - Read {doc}`Chapter 19: Mental Imagery, Mental Simulation, and Mental Rotation <../chapters/16/00-mentalsimulation>`
-
-### Wed, Nov 26 (No class)
+### Fri, Nov 13  (No class)
 - Assignments
   - **Signal Detection Theory lab due**
 
-### Mon, Dec 01
+### Wed, Nov 18
 - Agenda
-  - Group presentation on {doc}`Chapter 19: Mental Imagery, Mental Simulation, and Mental Rotation <../chapters/16/00-mentalsimulation>` (Group 4)
-  - Linear Regression lab ({doc}`part 1 <../labs/LabReg-IntroToRegression>`, {doc}`part 2 <../labs/LabReg-AdvancedRegression>`, {doc}`part 3 <../labs/LabReg-MentalRotation>`)
-  - **EXTRA CREDIT:** Functional Magnetic Resonance Imaging lab ({doc}`part 1 <../labs/LabReg-MRI-Pt1>`, {doc}`part 2 <../labs/LabReg-MRI-Pt2>`)
+  - Discuss Replication Crisis
+  - Group 2 presentation on {doc}`Chapter 16: Linear Regression <../chapters/13/00-linearregression>`
+  - Signal Detection Theory lab ({doc}`part 2 <../labs/LabSDT-Pt2>`)
 - Assignments
-  - Read/watch {doc}`Chapter 21: What's Next? <../chapters/24/00-what-next>`
-  - **OPTIONAL**: Read {doc}`Chapter 19: Functional Magnetic Resonance Imaging <../chapters/17/00-mri>`
+  - Read/watch {doc}`Chapter 16: Linear Regression <../chapters/13/00-linearregression>`
+  - Read {doc}`Chapter 17: Logistic Regression <../chapters/14/00-logisticregression>`
 
-### Mon, Dec 08
+### Wed, Nov 25  (No class — Thanksgiving recess)
+
+### Mon, Nov 30  (No class)
+- Assignments
+  - **Linear Regression lab due**
+
+### Wed, Dec 02
+- Agenda
+  - Discuss Logistic Regression
+  - Group 3 presentation on {doc}`Chapter 18: Linear Mixed Effect Models <../chapters/15/00-mixed-effect>`
+  - Linear Regression lab ({doc}`part 1 <../labs/LabReg-IntroToRegression>`)
+- Assignments
+  - Read {doc}`Chapter 18: Linear Mixed Effect Models <../chapters/15/00-mixed-effect>`
+  - Read {doc}`Chapter 19: Mental Imagery, Mental Simulation, and Mental Rotation <../chapters/16/00-mentalsimulation>`
+
+### Wed, Dec 09
+- Agenda
+  - Group 4 presentation on {doc}`Chapter 19: Mental Imagery, Mental Simulation, and Mental Rotation <../chapters/16/00-mentalsimulation>`
+  - Group 5 presentation on {doc}`Chapter 20: Functional Magnetic Resonance Imaging <../chapters/17/00-mri>`
+  - Linear Regression lab ({doc}`part 2 <../labs/LabReg-AdvancedRegression>`, {doc}`part 3 <../labs/LabReg-MentalRotation>`)
+- Assignments
+  - Read/watch {doc}`Chapter 20: Functional Magnetic Resonance Imaging <../chapters/17/00-mri>`
+
+### Fri, Dec 11  (No class)
+- Assignments
+  - **MRI lab due**
+
+### Wed, Dec 16
 - Agenda
   - Final Discussion
-  - Linear Regression lab ({doc}`part 1 <../labs/LabReg-IntroToRegression>`, {doc}`part 2 <../labs/LabReg-AdvancedRegression>`, {doc}`part 3 <../labs/LabReg-MentalRotation>`)
-  - **EXTRA CREDIT:** Group presentation on {doc}`Chapter 20: Functional Magnetic Resonance Imaging <../chapters/17/00-mri>` (Group 5)
-  - **EXTRA CREDIT:** Functional Magnetic Resonance Imaging lab ({doc}`part 1 <../labs/LabReg-MRI-Pt1>`, {doc}`part 2 <../labs/LabReg-MRI-Pt2>`)
-
-### Fri, Dec 12 (No class)
-- Assignments
-  - **Linear regression lab due**
+  - MRI lab ({doc}`part 1 <../labs/LabReg-MRI-Pt1>`, {doc}`part 2 <../labs/LabReg-MRI-Pt2>`)
