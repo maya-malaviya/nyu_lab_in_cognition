@@ -1,27 +1,26 @@
 <!-- #region -->
 
-# LAB IN COGNITION AND PERCEPTION
+# Lab in Cognition & Perception
 
-## PSYCH-UA.46 - Spring 2026
+## PSYCH-UA.46 - Fall 2026
 
-## Section 03
+## Section 02
 
 ### Instructors
 
-**Professor**: [Bob Rehder](https://as.nyu.edu/faculty/robert-e-rehder.html), PhD  
-**Email**: bob.rehder@nyu.edu
-**Office Hours**: Tuesday, 12:30-2:30
+**Professor**: [Andy Hilford][andy], PhD  
+**Email**: ah13r@nyu.edu
+**Office Hours**: by appointment
 **Office**: Zoom or Meyer 586  
 
-**Teaching Assistant**: Trevor Hartnett  
-**Email**: tmh8587@nyu.edu
-**Office Hours**: By appointment  
-**Office**: TBD  
+**Teaching Assistant**: [Maya Malaviya][maya]
+**Email**: maya.malaviya@nyu.edu
+**Office Hours**: by appointment
+**Office**: Meyer 571
 
 ### Place and Time
-Meyer 159 
-Tues/Thurs, 11:00 AM - 12:15 PM
-
+GCASL 375
+Wednesdays, 2:00 PM - 4:30 PM
 
 
 ## Course Overview
@@ -30,27 +29,19 @@ This course provides hands-on experience with the tools and practices used in ps
 In addition to methods, the course will expose students to key concepts in cognition and perception including intelligence, learning, memory, attention, visual perception, mental imagery and imagination, and cognitive neuroscience through analysis of data. This course is useful for undergraduate students interested in getting actively involved in research at NYU or another university.  In addition, this course provides a strong background for graduate work in psychological science, particularly cognitive science, cognitive neuroscience, and perception.  Even if you plan to not continue to do scientific research, the course should arm you with some of the necessary skills to be an effective worker in a world awash with data.
 
 ### Class Website
-[https://markkho.github.io/nyu_lab_in_cognition](https://markkho.github.io/nyu_lab_in_cognition)
-
-### Credits and Degree Progress
-This class is worth four credit hours and applies to the lab requirement for the psychology major.
+[https://maya-malaviya.github.io/nyu_lab_in_cognition](https://maya-malaviya.github.io/nyu_lab_in_cognition)
 
 ### Textbook
-You are looking at it!  You will refer to this website for reading, lecture slides, videos, and other exercises.  Sometimes links will be provided to other websites and videos.
+You are looking at it! You will refer to this website for reading, lecture slides, videos, and other exercises. Sometimes links will be provided to other websites and videos.
 
 ### Prerequisites
 PSYCH-UA 10 (Statistical reasoning for the behavioral sciences), PSYCH-UA 11 (Adavance psychological statistics) and one of the following: PSYCH-UA 22 (Perception), PSYCH-UA 25 (Cognitive Neuroscience), or PSYCH-UA 29 (Cognition). Permission of the instructor may be obtained in certain cases.
 
 ## Computing Environment
-The course will rely on a online computing environment called Jupyter.  Each student will have their own JupyterHub instance and can connect to this from a variety of devices over the internet.  The address of the class JupyterHub is [https://psych-ua46-spring.rcnyu.org/](https://psych-ua46-spring.rcnyu.org/).  You will log in with your normal NYUHome credentials.
+The course will rely on a online computing environment called Jupyter. Each student will have their own JupyterHub instance and can connect to this from a variety of devices over the internet. The address of the class JupyterHub is [https://psych-ua46-fall.rcnyu.org/](https://psych-ua46-fall.rcnyu.org/).  You will log in with your normal NYUHome credentials.
 
 ## Communication
-We will use **Brightspace** to facilitate discussion outside of class.  You can post questions about any of the course content and the TA or instructor will try their best to respond quickly.  By asking your question on the public forum you can learn from the questions and answers of your fellow students. 
-
-
-## Schedule
-
-Each class will be divided into several parts.  Sometimes there will be a short lecture, but often we will try to provide videos in advance to watch (a "flipped class").  In class will focus on discussion, student presentations, group work, and practical exercises.  A link to the current schedule can be found [here](schedule), but it may be updated as we go.
+We will use **Brightspace** to facilitate discussion outside of class. You can post questions about any of the course content and the TA or instructor will try their best to respond quickly. By asking your question on the public forum you can learn from the questions and answers of your fellow students. 
 
 ## Assignments
 The grade in the course will be determined by the following categories:
@@ -86,9 +77,7 @@ Although the experiments performed in this class are for educational purposes, a
 
 ### Statistical software
 
-Note that part of the class will be learning to use Python software packages for data analysis. We will be teaching these skills in the class. However, if you find that you need extra assistance, the Bobst library provide statistical consultants who are familiar with these packages. According to their webpage: Consultation information will be available on the 6th floor in rooms 620 and 621* via e- mail
-(data.service@nyu.edu), telephone 212-998-3434, by appointment or on a walk-in basis. Staff and student consultants will offer free tutorials and workshops on a variety of statistical packages. Sign up for fall software tutorials on the library's
-classes page: http://www.library.nyu.edu/forms/research/classes.html
+Note that part of the class will be learning to use Python software packages for data analysis. We will be teaching these skills in the class. However, if you find that you need extra assistance, the Bobst library provide statistical consultants who are familiar with these packages. According to their webpage: Consultation information will be available on the 6th floor in rooms 620 and 621* via e- mail (data.service@nyu.edu), telephone 212-998-3434, by appointment or on a walk-in basis. Sign up for fall software tutorials on the library's classes page: http://www.library.nyu.edu/forms/research/classes.html
 
 ### Accomodation
 Students requesting academic accommodations are advised to reach out to the Moses Center for Students with Disabilities as early as possible in the semester for assistance.
@@ -111,3 +100,6 @@ Any student with a documented disability needing academic adjustments or accommo
 
 ### Religious observances
 Some students may wish to take part in religious observances that occur during this academic term. If you have a religious observance which conflicts with your participation in the course, please meet with me by the end of the second week of the term to discuss appropriate accommodations.
+
+[andy]: https://as.nyu.edu/faculty/andrew-hilford.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1
+[maya]: https://maya-malaviya.github.io/
