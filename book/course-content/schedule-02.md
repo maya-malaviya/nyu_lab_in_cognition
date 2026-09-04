@@ -6,6 +6,17 @@ links to the lecture will be provided here for easy reference to the calendar.
 The assignments refer to the homework **following** a class meeting. So if on
 a particular date it says watch a video, that is for next time!
 
+# Assignment Release & Due Dates
+
+| Assignment | Start Date | Due Date |
+|---|---|---|
+| {doc}`Homework 1 <../homeworks/Homework1>` | Wed, Sep 09 | **Fri, Sep 18** |
+| {doc}`Homework 2: Python for data analysis <../homeworks/hw2/Homework2>` | Wed, Sep 23 | **Fri, Oct 09** |
+| {doc}`Homework 3: Exploring Data <../homeworks/Homework3>` | Wed, Oct 28 | **Mon, Nov 02** |
+| Signal Detection Theory lab ({doc}`part 1 <../labs/LabSDT-Pt1>`, {doc}`part 2 <../labs/LabSDT-Pt2>`) | Wed, Nov 11 | **Fri, Nov 20** |
+| Linear Regression lab ({doc}`part 1 <../labs/LabReg-IntroToRegression>`, {doc}`part 2 <../labs/LabReg-AdvancedRegression>`, {doc}`part 3 <../labs/LabReg-MentalRotation>`) | Wed, Nov 25 | **Mon, Dec 07** |
+| MRI lab ({doc}`part 1 <../labs/LabReg-MRI-Pt1>`, {doc}`part 2 <../labs/LabReg-MRI-Pt2>`) | Wed, Dec 09 | Wed, Dec 16 | **Fri, Dec 18** |
+
 ### Wed, Sep 02
 - Agenda
   - Introduction to course
@@ -15,10 +26,11 @@ a particular date it says watch a video, that is for next time!
   - Read/watch {doc}`Chapter 1: What is Cognitive Science and how do we study it? <../chapters/00/00-cogsci>`
   - Do {doc}`Intro to Cognitive Science in-class activity <../chapters/00/cogsci-ica>`
   - Read/watch {doc}`Chapter 2: Why do we have to learn statistics? <../chapters/01/00-whystats>`
+  - Read/watch {doc}`Chapter 3: Introduction to Jupyter <../chapters/02/00-jupyter>`
 
 ### Wed, Sep 09
 - Agenda
-  - Discuss Intro to Cognitive Science ICA and Chapter 2
+  - Discuss Chapters 1, 2, and 3
   - Discuss {doc}`Chapter 3: Introduction to Jupyter <../chapters/02/00-jupyter>` and JupyterHub introduction
   - Start {doc}`Homework 1 <../homeworks/Homework1>`
 - Assignments
@@ -77,10 +89,6 @@ a particular date it says watch a video, that is for next time!
   - Read/watch {doc}`Chapter 9: Samples, populations, and sampling <../chapters/08/01-sampling>`
   - Read/watch {doc}`Chapter 10: Hypothesis testing <../chapters/09/00-hypothesistesting>`
 
-### Mon, Oct 26  (No class)
-- Assignments
-  - **Homework 3 due**
-
 ### Wed, Oct 28
 - Agenda
   - Group 1 presentation on {doc}`Chapter 9: Samples, populations, and sampling <../chapters/08/01-sampling>`
@@ -89,6 +97,11 @@ a particular date it says watch a video, that is for next time!
   - Work on {doc}`Homework 3: Exploring Data <../homeworks/Homework3>`
 - Assignments
   - Read/watch {doc}`Chapter 11: Comparing one or two means <../chapters/10/00-ttest>`
+  - Read/watch {doc}`Chapter 12: Measuring behavior <../chapters/11/00-inferences-from-behavior>`
+
+### Mon, Nov 02  (No class)
+- Assignments
+  - **Homework 3 due**
 
 ### Wed, Nov 04
 - Agenda
@@ -96,8 +109,8 @@ a particular date it says watch a video, that is for next time!
   - Group 4 presentation on {doc}`Chapter 12: Measuring behavior <../chapters/11/00-inferences-from-behavior>`
   - Work on {doc}`Chapter 11 ICA: Differences between means <../chapters/10/ttest-ica>`
 - Assignments
-  - Read/watch {doc}`Chapter 12: Measuring behavior <../chapters/11/00-inferences-from-behavior>`
   - Read/watch {doc}`Chapter 13: Correlation <../chapters/12/00-correlation>`
+  - Read/watch {doc}`Chapter 14: Research Ethics <../chapters/21/00-ethics-irb>`
 
 ### Wed, Nov 11
 - Agenda
@@ -105,12 +118,8 @@ a particular date it says watch a video, that is for next time!
   - Group 1 presentation on {doc}`Chapter 14: Research Ethics <../chapters/21/00-ethics-irb>`
   - Signal Detection Theory lab ({doc}`part 1 <../labs/LabSDT-Pt1>`)
 - Assignments
-  - Read/watch {doc}`Chapter 14: Research Ethics <../chapters/21/00-ethics-irb>`
   - Read/watch {doc}`Chapter 15: Replication Crisis in Psychology <../chapters/20/replication-crisis-in-psychology>`
-
-### Fri, Nov 13  (No class)
-- Assignments
-  - **Signal Detection Theory lab due**
+  - Read/watch {doc}`Chapter 16: Linear Regression <../chapters/13/00-linearregression>`
 
 ### Wed, Nov 18
 - Agenda
@@ -118,37 +127,42 @@ a particular date it says watch a video, that is for next time!
   - Group 2 presentation on {doc}`Chapter 16: Linear Regression <../chapters/13/00-linearregression>`
   - Signal Detection Theory lab ({doc}`part 2 <../labs/LabSDT-Pt2>`)
 - Assignments
-  - Read/watch {doc}`Chapter 16: Linear Regression <../chapters/13/00-linearregression>`
   - Read {doc}`Chapter 17: Logistic Regression <../chapters/14/00-logisticregression>`
+  - Read {doc}`Chapter 18: Linear Mixed Effect Models <../chapters/15/00-mixed-effect>`
 
-### Wed, Nov 25  (No class — Thanksgiving recess)
-
-### Mon, Nov 30  (No class)
+### Fri, Nov 20  (No class)
 - Assignments
-  - **Linear Regression lab due**
+  - **Signal Detection Theory lab due**
 
-### Wed, Dec 02
+### Wed, Nov 25
 - Agenda
   - Discuss Logistic Regression
   - Group 3 presentation on {doc}`Chapter 18: Linear Mixed Effect Models <../chapters/15/00-mixed-effect>`
   - Linear Regression lab ({doc}`part 1 <../labs/LabReg-IntroToRegression>`)
 - Assignments
-  - Read {doc}`Chapter 18: Linear Mixed Effect Models <../chapters/15/00-mixed-effect>`
   - Read {doc}`Chapter 19: Mental Imagery, Mental Simulation, and Mental Rotation <../chapters/16/00-mentalsimulation>`
 
-### Wed, Dec 09
+### Wed, Dec 02
 - Agenda
   - Group 4 presentation on {doc}`Chapter 19: Mental Imagery, Mental Simulation, and Mental Rotation <../chapters/16/00-mentalsimulation>`
-  - Group 5 presentation on {doc}`Chapter 20: Functional Magnetic Resonance Imaging <../chapters/17/00-mri>`
   - Linear Regression lab ({doc}`part 2 <../labs/LabReg-AdvancedRegression>`, {doc}`part 3 <../labs/LabReg-MentalRotation>`)
 - Assignments
   - Read/watch {doc}`Chapter 20: Functional Magnetic Resonance Imaging <../chapters/17/00-mri>`
 
-### Fri, Dec 11  (No class)
+### Mon, Dec 07  (No class)
 - Assignments
-  - **MRI lab due**
+  - **Linear Regression lab due**
+
+### Wed, Dec 09
+- Agenda
+  - Group 5 presentation on {doc}`Chapter 20: Functional Magnetic Resonance Imaging <../chapters/17/00-mri>`
+  - MRI lab ({doc}`part 1 <../labs/LabReg-MRI-Pt1>`, {doc}`part 2 <../labs/LabReg-MRI-Pt2>`)
+- Assignments
+  - Read/watch {doc}`Chapter 21: What's Next? <../chapters/24/00-what-next>`
 
 ### Wed, Dec 16
 - Agenda
   - Final Discussion
-  - MRI lab ({doc}`part 1 <../labs/LabReg-MRI-Pt1>`, {doc}`part 2 <../labs/LabReg-MRI-Pt2>`)
+  - Finish MRI lab ({doc}`part 2 <../labs/LabReg-MRI-Pt2>`)
+- Assignments
+  - **MRI lab due Fri, Dec 18**
