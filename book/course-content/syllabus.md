@@ -9,14 +9,14 @@
 ### Instructors
 
 **Professor**: [Andy Hilford][andy], PhD  
-**Email**: ah13r@nyu.edu
-**Office Hours**: by appointment
-**Office**: Zoom or Meyer 586  
+**Email**: ah13r@nyu.edu  
+**Office Hours**: by appointment  
+**Office**: Zoom or Meyer 586    
 
-**Teaching Assistant**: [Maya Malaviya][maya]
-**Email**: maya.malaviya@nyu.edu
-**Office Hours**: by appointment
-**Office**: Meyer 571
+**Teaching Assistant**: [Maya Malaviya][maya]  
+**Email**: maya.malaviya@nyu.edu  
+**Office Hours**: by appointment  
+**Office**: Meyer 571  
 
 ### Place and Time
 GCASL 375
