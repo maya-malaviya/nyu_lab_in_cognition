@@ -2,9 +2,7 @@
 
 # Lab in Cognition & Perception
 
-## PSYCH-UA.46 - Fall 2026
-
-## Section 02
+### PSYCH-UA.46 - Section 02 - Fall 2026
 
 ### Instructors
 
