@@ -21,8 +21,11 @@ This course is useful for undergraduate students interested in getting actively 
 ## Acknowledgements
 
 
-This course created by [Todd Gureckis][todd] with support of the Department of Psychology at New York University.  Selected elements borrowed and adapted from Danielle Navarro's [Learning Statistics with R](https://learningstatisticswithr.com), Matt Crump's [Answering Questions with Data](https://crumplab.github.io/statistics/), Luke Chang's [Introduction to fMRI Data Analysis](https://dartbrains.org), Michael C. Frank's [Lab in Experimental Methods](http://web.stanford.edu/class/psych254/), [Mike Landy](https://www.cns.nyu.edu/~msl/)'s Lab in Perception, [Jess Hamrick](http://www.jesshamrick.com)'s Jupyter teaching materials, and resources developed by Clay Curtis and Liang Zhli via the Moore-Sloan Data Science Environment at NYU.
+
+This course was created by [Todd Gureckis][todd] with support of the Department of Psychology at New York University. This fork of the Fall 2026 course was adapted by [Andy Hilford][andy] and [Maya Malaviya][maya]. Selected elements were borrowed and adapted from Danielle Navarro's [Learning Statistics with R](https://learningstatisticswithr.com), Matt Crump's [Answering Questions with Data](https://crumplab.github.io/statistics/), Luke Chang's [Introduction to fMRI Data Analysis](https://dartbrains.org), Michael C. Frank's [Lab in Experimental Methods](http://web.stanford.edu/class/psych254/), [Mike Landy](https://www.cns.nyu.edu/~msl/)'s Lab in Perception, [Jess Hamrick](http://www.jesshamrick.com)'s Jupyter teaching materials, and resources developed by Clay Curtis and Liang Zhli via the Moore-Sloan Data Science Environment at NYU.
 
 This content was supported by NSF CAREER award BCS-1255538 and DRL-1631436 to TM Gureckis.
 
 [todd]: http://www.gureckislab.org
+[andy]: https://as.nyu.edu/faculty/andrew-hilford.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1
+[maya]: https://maya-malaviya.github.io/
