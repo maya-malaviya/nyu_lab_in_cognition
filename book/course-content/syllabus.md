@@ -77,7 +77,7 @@ Although the experiments performed in this class are for educational purposes, a
 
 ### Statistical software
 
-Note that part of the class will be learning to use Python software packages for data analysis. We will be teaching these skills in the class. However, if you find that you need extra assistance, the Bobst library provide statistical consultants who are familiar with these packages. According to their webpage: Consultation information will be available on the 6th floor in rooms 620 and 621* via e- mail (data.service@nyu.edu), telephone 212-998-3434, by appointment or on a walk-in basis. Sign up for fall software tutorials on the library's classes page: http://www.library.nyu.edu/forms/research/classes.html
+Note that part of the class will be learning to use Python software packages for data analysis. We will be teaching these skills in the class. However, if you find that you need extra assistance, the Bobst library provide statistical consultants who are familiar with these packages. According to their webpage: Consultation information will be available on the 6th floor in rooms 620 and 621* via e-mail (data.service@nyu.edu), telephone 212-998-3434, by appointment or on a walk-in basis. You can sign up for software tutorials on the library's classes page: http://www.library.nyu.edu/forms/research/classes.html
 
 ### Accomodation
 Students requesting academic accommodations are advised to reach out to the Moses Center for Students with Disabilities as early as possible in the semester for assistance.
