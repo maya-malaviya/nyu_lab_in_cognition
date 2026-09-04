@@ -7,6 +7,8 @@ parts:
     title: Syllabus
   - file: course-content/schedule-02
     title: Schedule (Section 002)
+  - file: course-content/assignment-schedule
+    title: Assignment Schedule
 - caption: Resources
   chapters:
   - url: https://psych-ua46-spring.rcnyu.org/

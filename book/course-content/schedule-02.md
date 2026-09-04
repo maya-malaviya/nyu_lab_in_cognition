@@ -6,17 +6,6 @@ links to the lecture will be provided here for easy reference to the calendar.
 The assignments refer to the homework **following** a class meeting. So if on
 a particular date it says watch a video, that is for next time!
 
-# Assignment Release & Due Dates
-
-| Assignment | Start Date | Due Date |
-|---|---|---|
-| {doc}`Homework 1 <../homeworks/Homework1>` | Wed, Sep 09 | **Fri, Sep 18** |
-| {doc}`Homework 2: Python for data analysis <../homeworks/hw2/Homework2>` | Wed, Sep 23 | **Fri, Oct 09** |
-| {doc}`Homework 3: Exploring Data <../homeworks/Homework3>` | Wed, Oct 28 | **Mon, Nov 02** |
-| Signal Detection Theory lab ({doc}`part 1 <../labs/LabSDT-Pt1>`, {doc}`part 2 <../labs/LabSDT-Pt2>`) | Wed, Nov 11 | **Fri, Nov 20** |
-| Linear Regression lab ({doc}`part 1 <../labs/LabReg-IntroToRegression>`, {doc}`part 2 <../labs/LabReg-AdvancedRegression>`, {doc}`part 3 <../labs/LabReg-MentalRotation>`) | Wed, Nov 25 | **Mon, Dec 07** |
-| MRI lab ({doc}`part 1 <../labs/LabReg-MRI-Pt1>`, {doc}`part 2 <../labs/LabReg-MRI-Pt2>`) | Wed, Dec 09 | Wed, Dec 16 | **Fri, Dec 18** |
-
 ### Wed, Sep 02
 - Agenda
   - Introduction to course
