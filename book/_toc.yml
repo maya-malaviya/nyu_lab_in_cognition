@@ -5,8 +5,8 @@ parts:
   chapters:
   - file: course-content/syllabus
     title: Syllabus
-  - file: course-content/schedule-03
-    title: Schedule (Section 003)
+  - file: course-content/schedule-02
+    title: Schedule (Section 002)
 - caption: Resources
   chapters:
   - url: https://psych-ua46-spring.rcnyu.org/
