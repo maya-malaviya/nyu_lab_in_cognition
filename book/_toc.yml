@@ -11,7 +11,7 @@ parts:
     title: Assignment Schedule
 - caption: Resources
   chapters:
-  - url: https://psych-ua46-spring.rcnyu.org/
+  - url: https://psych-ua46-fall.rcnyu.org/
     title: JupyterHub
   - url: https://github.com/markkho/nyu_lab_in_cognition
     title: GitHub
