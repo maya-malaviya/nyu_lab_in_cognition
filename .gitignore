@@ -3,3 +3,6 @@
 .DS_Store
 /book/_build
 /venv
+
+# instructor answer keys; don't publish
+/_solutions
