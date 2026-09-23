@@ -6,9 +6,11 @@ parts:
   - file: course-content/syllabus
     title: Syllabus
   - file: course-content/schedule-02
-    title: Schedule (Section 002)
+    title: Schedule for Section 2
   - file: course-content/assignment-schedule
     title: Assignment Schedule
+  # - file: course-content/questions
+  #   title: Questions & Discussion
 - caption: Resources
   chapters:
   - url: https://psych-ua46-fall.rcnyu.org/
