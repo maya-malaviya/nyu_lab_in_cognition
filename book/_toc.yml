@@ -82,6 +82,7 @@ parts:
 - caption: Tips & Tricks
   chapters:
   - file: tips/pythonresources
+  - file: tips/print-vs-return
   - file: tips/plottingresources
   - file: tips/fortyforloops
   - file: tips/nyu-jupyterhub
