@@ -6,3 +6,6 @@
 
 # instructor answer keys; don't publish
 /_solutions
+
+# graded student submissions (FERPA); never commit
+/student-work
