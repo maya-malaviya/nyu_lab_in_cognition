@@ -13,7 +13,7 @@
 
 **Teaching Assistant**: [Maya Malaviya][maya]  
 **Email**: maya.malaviya@nyu.edu  
-**Office Hours**: by appointment  
+**Office Hours**: by appointment, online or in person ([click here to schedule](https://calendar.app.google/E6X1ogNEo6rbqUk99))  
 **Office**: Meyer 571  
 
 ### Place and Time
