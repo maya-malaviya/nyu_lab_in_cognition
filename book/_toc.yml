@@ -79,7 +79,6 @@ parts:
     # title: Homework 2 - Python for data
   - file: homeworks/Homework3
     # title: Homework 3 - Exploring Data
-
 - caption: Tips & Tricks
   chapters:
   - file: tips/pythonresources

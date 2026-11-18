@@ -62,7 +62,8 @@ a particular date it says watch a video, that is for next time!
   - Read/watch {doc}`Chapter 8: Describing data <../chapters/07/00-describingdata>`
 - **Homework 2 due Fri, Oct 09 at 11:59pm**
 
-#### Wed, Oct 14  (No class — Legislative Monday)
+#### Wed, Oct 14
+(No class — Legislative Monday)
 
 #### Wed, Oct 21
 - Agenda
